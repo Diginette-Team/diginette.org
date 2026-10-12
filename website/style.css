@@ -72,6 +72,10 @@ nav {
   text-align: center;
 }
 
+nav p {
+  font-size: 30px;
+}
+
 footer {
   background-color: #333232;
   padding: 8px 10px;
